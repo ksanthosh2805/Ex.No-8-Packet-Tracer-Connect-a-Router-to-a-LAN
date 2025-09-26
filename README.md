@@ -124,21 +124,25 @@ o	You should also be able to ping all active router interfaces from the PCs. (Sw
 
 #### R1 - Interface Brief
 
-<img width="877" height="889" alt="Screenshot 2025-09-26 085156" src="https://github.com/user-attachments/assets/4f9d104f-560f-4773-bdf5-6043f6ce4d90" />
+<img width="877" height="889" alt="Screenshot 2025-09-26 092407" src="https://github.com/user-attachments/assets/b150c41e-c9b8-4911-a276-87ac2f3b3bd7" />
+
 
 #### R2 - Interface Brief
 
-<img width="877" height="889" alt="Screenshot 2025-09-26 085335" src="https://github.com/user-attachments/assets/46dbd980-4eb6-4e8d-b32f-0eeb536fa3f3" />
+<img width="877" height="889" alt="Screenshot 2025-09-26 092511" src="https://github.com/user-attachments/assets/c7dfa19b-64dd-4c19-888b-ca2d0565375f" />
+
 
 ### •	show ip route on R1 and R2<br>
 
 #### R1 - IP Route
 
-<img width="877" height="889" alt="Screenshot 2025-09-26 085441" src="https://github.com/user-attachments/assets/736eca46-5120-4e1d-9f81-35064230f969" />
+<img width="877" height="889" alt="Screenshot 2025-09-26 092439" src="https://github.com/user-attachments/assets/77ad6655-c792-488a-bfff-b22766d33150" />
+
 
 #### R2 - IP Route
 
-<img width="877" height="889" alt="Screenshot 2025-09-26 085504" src="https://github.com/user-attachments/assets/6a417fd9-1556-46e1-9dc2-659f570796d7" />
+<img width="877" height="889" alt="Screenshot 2025-09-26 092532" src="https://github.com/user-attachments/assets/a1ddfaf6-78bf-465c-87a1-6fccc264589f" />
+
 
 
 ### •	Successful ping PC2 → PC4 and R2 → PC2<br>
