@@ -20,9 +20,13 @@ Configure and verify router LAN/WAN interfaces in Cisco Packet Tracer and test e
 <br>
 
 ## Network Topology Diagram
-(Insert your Packet Tracer screenshot showing R1—S1—PC1/PC2 and R2—S2—PC3/PC4, plus R1–R2 Serial link S0/0/0.)<br>
+
+<img width="1408" height="736" alt="topo" src="https://github.com/user-attachments/assets/afc453d0-9ad4-4cd9-9a40-acb7fe059888" />
+
+
 <br>
-Addressing Table (from activity)<br>
+
+## Addressing Table (from activity)<br>
 Device	Interface	IP Address	Subnet Mask	Default Gateway<br>
 R1	G0/0	192.168.10.1	255.255.255.0	—<br>
 R1	G0/1	192.168.11.1	255.255.255.0	—<br>
@@ -35,6 +39,7 @@ PC2	NIC	192.168.11.10	255.255.255.0	192.168.11.1<br>
 PC3	NIC	10.1.1.10	255.255.255.0	10.1.1.1<br>
 PC4	NIC	10.1.2.10	255.255.255.0	10.1.2.1<br>
 Note (per activity): Console password = cisco; Privileged EXEC password = class. <br>
+
 <br>
 
 ## Procedure
