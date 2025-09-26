@@ -1,5 +1,7 @@
 # Ex. No: 8   Packet Tracer: Connect a Router to a LAN
-# Date: 26-09-2025
+## Date: 26-09-2025
+## Name: Santhosh K
+## RegNo: 212223100050
 <br>
 
 ## Objective
