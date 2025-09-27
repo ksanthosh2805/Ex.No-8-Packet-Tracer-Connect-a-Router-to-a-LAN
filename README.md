@@ -166,6 +166,8 @@ o	You should also be able to ping all active router interfaces from the PCs. (Sw
 
 <img width="877" height="509" alt="Screenshot 2025-09-26 090021" src="https://github.com/user-attachments/assets/1c5d96d0-d6a8-40c3-8602-a6b8cb586e29" />
 
+#### Completion 
+<img width="649" height="509" alt="Screenshot 2025-09-26 094759" src="https://github.com/user-attachments/assets/c40273cc-5719-46a6-be8c-ebb3b74dcc73" />
 
 
 <br>
